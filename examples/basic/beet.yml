@@ -1,0 +1,7 @@
+require:
+  - bolt
+  - ride_the_lightning
+data_pack:
+  load: "src"
+pipeline:
+  - mecha
